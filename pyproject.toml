@@ -17,7 +17,7 @@ dynamic = ["version"]
 dependencies = [
     "loguru>=0.7.3",
     "orjson>=3.11.8",
-    "pyooz @ git+https://github.com/oMaN-Rod/pyooz.git",
+    "pyooz @ git+https://github.com/oMaN-Rod/pyooz.git@9af53d1faaa2f9a7dafe6d6caea117c762dc71d9",
 ]
 
 [project.urls]
